@@ -1,0 +1,30 @@
+.main-header {
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: cover;
+    width: 600px;
+    height: 1060px;
+    
+}
+.list{
+    position: absolute; 
+    top: 55px;
+    right: 420px;
+    bottom: 0.3; 
+    width: 300px; 
+    text-align:left;
+}
+.lists{
+    position: absolute;
+    top: 55px;
+    right: 20px;
+    width: 300px;
+    text-align: left;
+}
+.foot{
+    font-size: 12px;
+}
+.text-dark{
+    font-size: 80px;
+    
+}
